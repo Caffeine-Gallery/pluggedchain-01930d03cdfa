@@ -1,0 +1,4 @@
+service : {
+  greet: (principal) -> (text) query;
+  isAnonymous: (principal) -> (bool) query;
+}
